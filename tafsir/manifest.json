@@ -1,4 +1,4 @@
-﻿{
+{
   "schema_version": 1,
   "manifest_version": "1.0.0",
   "base_url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1",
@@ -8,7 +8,7 @@
   "tafsirs": [
     {
       "id": "muyassar",
-      "name_ar": "Ø§Ù„ØªÙØ³ÙŠØ± Ø§Ù„Ù…ÙŠØ³Ø±",
+      "name_ar": "التفسير الميسر",
       "name_en": "muyassar",
       "filename": "muyassar.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/muyassar.zip",
@@ -34,7 +34,7 @@
     },
     {
       "id": "jalalayn",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„Ø¬Ù„Ø§Ù„ÙŠÙ†",
+      "name_ar": "تفسير الجلالين",
       "name_en": "jalalayn",
       "filename": "jalalayn.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/jalalayn.zip",
@@ -60,7 +60,7 @@
     },
     {
       "id": "saadi",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„Ø³Ø¹Ø¯ÙŠ",
+      "name_ar": "تفسير السعدي",
       "name_en": "saadi",
       "filename": "saadi.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/saadi.zip",
@@ -86,7 +86,7 @@
     },
     {
       "id": "ibn-kathir",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ø¨Ù† ÙƒØ«ÙŠØ±",
+      "name_ar": "تفسير ابن كثير",
       "name_en": "ibn-kathir",
       "filename": "ibn-kathir.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/ibn-kathir.zip",
@@ -112,7 +112,7 @@
     },
     {
       "id": "waseet",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„ÙˆØ³ÙŠØ· Ù„Ø·Ù†Ø·Ø§ÙˆÙŠ",
+      "name_ar": "تفسير الوسيط لطنطاوي",
       "name_en": "waseet",
       "filename": "waseet.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/waseet.zip",
@@ -138,7 +138,7 @@
     },
     {
       "id": "baghawi",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„Ø¨ØºÙˆÙŠ",
+      "name_ar": "تفسير البغوي",
       "name_en": "baghawi",
       "filename": "baghawi.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/baghawi.zip",
@@ -164,7 +164,7 @@
     },
     {
       "id": "qurtubi",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„Ù‚Ø±Ø·Ø¨ÙŠ",
+      "name_ar": "تفسير القرطبي",
       "name_en": "qurtubi",
       "filename": "qurtubi.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/qurtubi.zip",
@@ -190,7 +190,7 @@
     },
     {
       "id": "tabari",
-      "name_ar": "ØªÙØ³ÙŠØ± Ø§Ù„Ø·Ø¨Ø±ÙŠ",
+      "name_ar": "تفسير الطبري",
       "name_en": "tabari",
       "filename": "tabari.zip",
       "url": "https://raw.githubusercontent.com/pdfviewer767/Moazeen-Tafsir/main/tafsir/v1/tabari.zip",
