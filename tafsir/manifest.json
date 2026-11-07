@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "manifest_version": "1.0.0",
+  "base_url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1",
+  "updated_at": "2026-11-07",
+  "expected_surah_count": 114,
+  "expected_ayah_count": 6236,
+  "tafsirs": [
+    {
+      "id": "muyassar",
+      "name_ar": "التفسير الميسر",
+      "name_en": "muyassar",
+      "filename": "muyassar.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/muyassar.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6236,
+      "size_bytes": 648618,
+      "sha256": "5ad7a19b23df38e3ef98d09f69dea614f701205f01afd49c310bcd94cb892abf",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "jalalayn",
+      "name_ar": "تفسير الجلالين",
+      "name_en": "jalalayn",
+      "filename": "jalalayn.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/jalalayn.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6236,
+      "size_bytes": 660444,
+      "sha256": "4c7940f3579580aec0d6a7b3857a41d3f4d2650f2012ab532b0dfd17ec8a4f11",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "saadi",
+      "name_ar": "تفسير السعدي",
+      "name_en": "saadi",
+      "filename": "saadi.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/saadi.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6186,
+      "size_bytes": 1746139,
+      "sha256": "319a32830aee7d6dff8263fbbf437e836990d13cb7c9507f72c6f498c4797c5d",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "ibn-kathir",
+      "name_ar": "تفسير ابن كثير",
+      "name_en": "ibn-kathir",
+      "filename": "ibn-kathir.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/ibn-kathir.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 5741,
+      "size_bytes": 3214612,
+      "sha256": "a3cf03320bcf8417797f43625e3c46cb07b369b0f30ff10a2d250822aba5bb5c",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "waseet",
+      "name_ar": "تفسير الوسيط لطنطاوي",
+      "name_en": "waseet",
+      "filename": "waseet.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/waseet.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6236,
+      "size_bytes": 5010788,
+      "sha256": "1c8b6dae815615e803218b5b74a3321884e2969cb6a439202bae3ae64633f669",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "baghawi",
+      "name_ar": "تفسير البغوي",
+      "name_en": "baghawi",
+      "filename": "baghawi.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/baghawi.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6236,
+      "size_bytes": 2067881,
+      "sha256": "89bf92ce62c95599724bab671313266f705ed8c61b900600266e0b262651b68b",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "qurtubi",
+      "name_ar": "تفسير القرطبي",
+      "name_en": "qurtubi",
+      "filename": "qurtubi.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/qurtubi.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6175,
+      "size_bytes": 5121192,
+      "sha256": "6fa6dc38f1af75d23ca00d9a395efc40bb1d81261f9b5f1e9d1886c2f4162e1e",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    },
+    {
+      "id": "tabari",
+      "name_ar": "تفسير الطبري",
+      "name_en": "tabari",
+      "filename": "tabari.zip",
+      "url": "https://github.com/pdfviewer767/Moazeen/raw/refs/heads/main/tafsir/v1/tabari.zip",
+      "version": "1.0.0",
+      "surah_count": 114,
+      "ayah_count": 6236,
+      "populated_ayah_count": 6234,
+      "size_bytes": 7809332,
+      "sha256": "6c59331bc6b15607ef99124de600f3cd015440468a33671c23a1c3345d3984ff",
+      "updated_at": "2026-11-07",
+      "source": {
+        "name": "Quran-Data-JSON-main",
+        "repository": "https://github.com/pdfviewer767/Moazeen.git",
+        "author": null,
+        "provenance": "Automated public-source compilation. Cross-check against an authoritative printed edition before religious use.",
+        "rights_status": "Redistribution authorized by repository owner for this integration after repository audit."
+      },
+      "extraction_test": {
+        "bad_member": null,
+        "members": 114,
+        "ayah_count": 6236
+      }
+    }
+  ]
+}
